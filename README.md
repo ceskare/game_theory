@@ -1,3 +1,3 @@
 # game_theory
-Python realization of game theory (like this implimentation https://ncase.me/trust/). 
-*Without applicarion interface
+A game-theoretic Python implementation that allows you to predict the outcome of games with different behaviors that lead to benefits.
+(like this implimentation https://ncase.me/trust/ but without application interface). 
